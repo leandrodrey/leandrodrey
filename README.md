@@ -6,7 +6,7 @@
   </a>
 
 
-  <h3>🔭 I’m currently working as Web Developer using: </h3>
+  <h3>🔭 I’m currently working as Web Developer using</h3>
     <a target="_blank" href="https://html.spec.whatwg.org/multipage/">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
@@ -36,15 +36,24 @@
     </a>
 
 
-  <h3>🌱 I’m currently specializing at:</h3>
+  <h3>🌱 I’m currently specializing at</h3>
   <a target="_blank" href="https://es.react.dev/">
-    <img height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img height="40px" src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 
-  <h3>💬 My last two positions:</h3>
+  <h3>💬 My last two positions</h3>
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/TL-Technical Leader-792DE4?style=for-the-badge&logoColor=white" />
 
+  <h3>👩‍💻 I studied</h3>
+  <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JAVA Web Programming-F7931E?style=for-the-badge&logo=spring&&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java Web Api-654FF0?style=for-the-badge&logo=spring&&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img alt="PHP Laravel" src="https://img.shields.io/badge/PHP Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+ 
   <h3>💻 My workspace </h3>
   <div>
     <img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -52,24 +61,8 @@
   </div>
   <div>&nbsp;</div>
   <div>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Micro-Ryzen_9_5900X-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
     <img src="https://img.shields.io/badge/Video-RX_6900XT-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </div>
 </div>
-
-<!--
-**leandrodrey/leandrodrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
