@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Responsive Design-blue?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
     <a target="_blank" href="https://www.w3.org/standards/webdesign/accessibility">
-      <img src="https://img.shields.io/badge/Accesibility-yellowgreen?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Accessibility-yellowgreen?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
     <a target="_blank" href="https://twig.symfony.com/">
       <img src="https://img.shields.io/badge/TWIG-green?style=for-the-badge&logoColor=white" />
