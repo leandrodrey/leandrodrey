@@ -40,6 +40,9 @@
   <a target="_blank" href="https://es.react.dev/">
     <img height="40px" src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img height="40px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
 
   <h3>💬 My last two positions</h3>
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
