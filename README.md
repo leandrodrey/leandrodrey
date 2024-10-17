@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, my name is Leandro! 👋 👨‍💻</h1>
-  <p>A Web Developer from Argentina</p>
+  <p>I am a Web Developer. I have a strong foundation in HTML, CSS, and JavaScript, and I'm passionate about building modern web applications using React and Next.js. I've been specializing in these technologies for several years now, constantly honing my skills and expanding my knowledge to create dynamic and user-friendly web experiences.</p>
   <a target="_blank" href="https://www.linkedin.com/in/leandrodrey/">
     <img height="35px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
