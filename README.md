@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/TL-Technical Leader-792DE4?style=for-the-badge&logoColor=white" />
 
   <h3>👩‍💻 I studied</h3>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JAVA Web Programming-F7931E?style=for-the-badge&logo=spring&&logoColor=white" />
