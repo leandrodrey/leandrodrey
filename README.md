@@ -67,8 +67,8 @@
   </div>
   <div>&nbsp;</div>
   <div>
-    <img src="https://img.shields.io/badge/Micro-Ryzen_9_5900X-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Video-RX_6900XT-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Micro-Ryzen_7_9800X3D-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Video-RTX_5080-76b900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </div>
 </div>
