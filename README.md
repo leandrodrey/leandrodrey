@@ -6,9 +6,12 @@
   </a>
 
 
-  <h3>🔭 I’m currently working as Web Developer using</h3>
+  <h3>🔭 I’m currently working as Frontend Software Engineer using</h3>
     <a target="_blank" href="https://es.react.dev/">
       <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+        <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
     <a target="_blank" href="https://html.spec.whatwg.org/multipage/">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,23 +19,11 @@
     <a target="_blank" href="https://www.w3.org/Style/CSS/">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
-    <a target="_blank" href="https://www.w3.org/Style/CSS/">
-      <img src="https://img.shields.io/badge/Flexbox-green?style=for-the-badge&logo=css3&logoColor=white" />
-    </a>
-    <a target="_blank" href="https://getbem.com/">
-      <img src="https://img.shields.io/badge/BEM-E34F26?style=for-the-badge&logoColor=white" />
-    </a>
     <a target="_blank" href="https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable">
       <img src="https://img.shields.io/badge/Responsive Design-blue?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
     <a target="_blank" href="https://www.w3.org/standards/webdesign/accessibility">
       <img src="https://img.shields.io/badge/Accessibility-yellowgreen?style=for-the-badge&logo=html5&logoColor=white" />
-    </a>
-    <a target="_blank" href="https://twig.symfony.com/">
-      <img src="https://img.shields.io/badge/TWIG-green?style=for-the-badge&logo=php&logoColor=white" />
-    </a>
-    <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
     <a target="_blank" href="https://git-scm.com/">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
