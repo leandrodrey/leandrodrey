@@ -7,6 +7,9 @@
 
 
   <h3>🔭 I’m currently working as Web Developer using</h3>
+    <a target="_blank" href="https://es.react.dev/">
+      <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
     <a target="_blank" href="https://html.spec.whatwg.org/multipage/">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
@@ -44,8 +47,8 @@
     <img height="40px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
 
-  <h3>💬 My last two positions</h3>
-  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <h3>💬 Other positions</h3>
+  <img src="https://img.shields.io/badge/WD - Web Developer-777BB4?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TL-Technical Leader-792DE4?style=for-the-badge&logoColor=white" />
 
   <h3>👩‍💻 I studied</h3>
@@ -61,13 +64,14 @@
  
   <h3>💻 My workspace </h3>
   <div>
+    <img height="30px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
     <img height="30px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   </div>
-  <div>&nbsp;</div>
+  <div><img src="https://img.shields.io/badge/MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/></div>
   <div>
-    <img src="https://img.shields.io/badge/Micro-Ryzen_7_9800X3D-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PC: Micro-Ryzen_7_9800X3D-E2231A?style=for-the-badge&logo=amd&logoColor=white"/>
     <img src="https://img.shields.io/badge/Video-RTX_5080-76b900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </div>
